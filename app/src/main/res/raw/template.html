@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<htm>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html;">
+        <style type="text/css">
+    table.mon_list
+    {
+    color: black;
+    width: 100%;
+    font-size: 90%;
+    border: 2px;
+    border-style:solid;
+    text-align: center;
+border-collapse:collapse;
+    }
+    td.info,
+    td.list,
+    tr.list
+    {
+    	border: 2px;
+    	border-style: solid;
+    	border-color: black;
+    	margin: 2px;
+    	border-collapse:collapse;
+    	padding: 2px;
+    }
+    tr.header
+    {
+        background: white;
+        font-size: 110%;
+    	border: 2px;
+    	border-style: solid;
+    	border-color: black;
+    	color: black;
+    	margin: 1px;
+    	border-collapse:collapse;
+    	padding: 2px;
+    }
+    tr.odd { background: #78DBF2; opacity: 0.85; font-weight: bold;}
+    tr.even { background: #9AE5BA; opacity: 0.85; font-weight: bold;}
+    tr.skip { color: red; font-weight: bold;}
+
+.datum {
+    opacity: 0.85;
+   border-bottom:none;
+   background: white;
+   text-align: center;
+   border-style:solid;
+   margin: auto;
+  width: 50%;
+  border: 2px solid black;
+  border-bottom: none;
+
+}
+        </style>
+    </head>
+    <body>
+        <div class='datum'>###TODAY###</div>
+        ###TABLE_TODAY###
+    </br>
+        <div class='datum'>###TOMORROW###</div>
+        ###TABLE_TOMORROW###
+    </body>
+</htm>

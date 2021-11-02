@@ -1,0 +1,429 @@
+{
+  "Resultcode": 0,
+  "ResultStatusInfo": "",
+  "StartIndex": -1,
+  "ResultMenuItems": [
+    {
+      "Index": 0,
+      "IconLink": "",
+      "Title": "Inhalte",
+      "Childs": [
+        {
+          "Index": 1,
+          "IconLink": "https://dsbmobile.de/static/androidicons/Tiles.png",
+          "Title": "Aushänge",
+          "Root": {
+            "Id": "",
+            "Date": "",
+            "Title": "",
+            "Detail": "",
+            "Tags": "",
+            "ConType": 0,
+            "Prio": 0,
+            "Index": 0,
+            "Childs": [
+              {
+                "Id": "7690d48f-d269-49fc-adbd-d9d596cfba19",
+                "Date": "27.09.2021 11:30",
+                "Title": "Schulsprecherwahl",
+                "Detail": "",
+                "Tags": "",
+                "ConType": 2,
+                "Prio": 0,
+                "Index": 0,
+                "Childs": [
+                  {
+                    "Id": "7690d48f-d269-49fc-adbd-d9d596cfba19",
+                    "Date": "27.09.2021 11:30",
+                    "Title": "Schulsprecherwahl",
+                    "Detail": "https://dsbmobile.de/data/5dfeda81-1fbd-44e4-9460-584cb596b6d5/7690d48f-d269-49fc-adbd-d9d596cfba19/7690d48f-d269-49fc-adbd-d9d596cfba19_000.png",
+                    "Tags": "",
+                    "ConType": 4,
+                    "Prio": 0,
+                    "Index": 0,
+                    "Childs": [],
+                    "Preview": "5dfeda81-1fbd-44e4-9460-584cb596b6d5/7690d48f-d269-49fc-adbd-d9d596cfba19/7690d48f-d269-49fc-adbd-d9d596cfba19_000.png"
+                  },
+                  {
+                    "Id": "7690d48f-d269-49fc-adbd-d9d596cfba19",
+                    "Date": "27.09.2021 11:30",
+                    "Title": "Schulsprecherwahl",
+                    "Detail": "https://dsbmobile.de/data/5dfeda81-1fbd-44e4-9460-584cb596b6d5/7690d48f-d269-49fc-adbd-d9d596cfba19/7690d48f-d269-49fc-adbd-d9d596cfba19_000.png",
+                    "Tags": "",
+                    "ConType": 4,
+                    "Prio": 0,
+                    "Index": 0,
+                    "Childs": [],
+                    "Preview": "5dfeda81-1fbd-44e4-9460-584cb596b6d5/7690d48f-d269-49fc-adbd-d9d596cfba19/7690d48f-d269-49fc-adbd-d9d596cfba19_000.png"
+                  }
+                ],
+                "Preview": ""
+              },
+              {
+                "Id": "db1d37c2-e7d6-4875-aacf-fc90282b2fd6",
+                "Date": "17.08.2021 08:37",
+                "Title": "Arbeitsgemeinschafte1",
+                "Detail": "",
+                "Tags": "",
+                "ConType": 2,
+                "Prio": 0,
+                "Index": 0,
+                "Childs": [
+                  {
+                    "Id": "db1d37c2-e7d6-4875-aacf-fc90282b2fd6",
+                    "Date": "17.08.2021 08:37",
+                    "Title": "Arbeitsgemeinschafte1.pdf",
+                    "Detail": "https://dsbmobile.de/data/5dfeda81-1fbd-44e4-9460-584cb596b6d5/db1d37c2-e7d6-4875-aacf-fc90282b2fd6/db1d37c2-e7d6-4875-aacf-fc90282b2fd6_000.jpg",
+                    "Tags": "",
+                    "ConType": 4,
+                    "Prio": 0,
+                    "Index": 0,
+                    "Childs": [],
+                    "Preview": "5dfeda81-1fbd-44e4-9460-584cb596b6d5/db1d37c2-e7d6-4875-aacf-fc90282b2fd6/db1d37c2-e7d6-4875-aacf-fc90282b2fd6_000.jpg"
+                  },
+                  {
+                    "Id": "db1d37c2-e7d6-4875-aacf-fc90282b2fd6",
+                    "Date": "17.08.2021 08:37",
+                    "Title": "Arbeitsgemeinschafte1.pdf",
+                    "Detail": "https://dsbmobile.de/data/5dfeda81-1fbd-44e4-9460-584cb596b6d5/db1d37c2-e7d6-4875-aacf-fc90282b2fd6/db1d37c2-e7d6-4875-aacf-fc90282b2fd6_000.jpg",
+                    "Tags": "",
+                    "ConType": 4,
+                    "Prio": 0,
+                    "Index": 0,
+                    "Childs": [],
+                    "Preview": "5dfeda81-1fbd-44e4-9460-584cb596b6d5/db1d37c2-e7d6-4875-aacf-fc90282b2fd6/db1d37c2-e7d6-4875-aacf-fc90282b2fd6_000.jpg"
+                  }
+                ],
+                "Preview": ""
+              },
+              {
+                "Id": "fb9f73c9-f31f-4ce3-bb7d-f471ce1f720a",
+                "Date": "27.09.2021 08:50",
+                "Title": "Juniorwahl_Ergebnissex",
+                "Detail": "",
+                "Tags": "",
+                "ConType": 2,
+                "Prio": 0,
+                "Index": 0,
+                "Childs": [
+                  {
+                    "Id": "fb9f73c9-f31f-4ce3-bb7d-f471ce1f720a",
+                    "Date": "27.09.2021 08:50",
+                    "Title": "Juniorwahl_Ergebnisse.docx",
+                    "Detail": "https://dsbmobile.de/data/5dfeda81-1fbd-44e4-9460-584cb596b6d5/fb9f73c9-f31f-4ce3-bb7d-f471ce1f720a/fb9f73c9-f31f-4ce3-bb7d-f471ce1f720a_000.png",
+                    "Tags": "",
+                    "ConType": 4,
+                    "Prio": 0,
+                    "Index": 0,
+                    "Childs": [],
+                    "Preview": "5dfeda81-1fbd-44e4-9460-584cb596b6d5/fb9f73c9-f31f-4ce3-bb7d-f471ce1f720a/fb9f73c9-f31f-4ce3-bb7d-f471ce1f720a_000.png"
+                  },
+                  {
+                    "Id": "fb9f73c9-f31f-4ce3-bb7d-f471ce1f720a",
+                    "Date": "27.09.2021 08:50",
+                    "Title": "Juniorwahl_Ergebnisse.docx",
+                    "Detail": "https://dsbmobile.de/data/5dfeda81-1fbd-44e4-9460-584cb596b6d5/fb9f73c9-f31f-4ce3-bb7d-f471ce1f720a/fb9f73c9-f31f-4ce3-bb7d-f471ce1f720a_001.png",
+                    "Tags": "",
+                    "ConType": 4,
+                    "Prio": 0,
+                    "Index": 1,
+                    "Childs": [],
+                    "Preview": "5dfeda81-1fbd-44e4-9460-584cb596b6d5/fb9f73c9-f31f-4ce3-bb7d-f471ce1f720a/fb9f73c9-f31f-4ce3-bb7d-f471ce1f720a_001.png"
+                  },
+                  {
+                    "Id": "fb9f73c9-f31f-4ce3-bb7d-f471ce1f720a",
+                    "Date": "27.09.2021 08:50",
+                    "Title": "Juniorwahl_Ergebnisse.docx",
+                    "Detail": "https://dsbmobile.de/data/5dfeda81-1fbd-44e4-9460-584cb596b6d5/fb9f73c9-f31f-4ce3-bb7d-f471ce1f720a/fb9f73c9-f31f-4ce3-bb7d-f471ce1f720a_000.png",
+                    "Tags": "",
+                    "ConType": 4,
+                    "Prio": 0,
+                    "Index": 2,
+                    "Childs": [],
+                    "Preview": "5dfeda81-1fbd-44e4-9460-584cb596b6d5/fb9f73c9-f31f-4ce3-bb7d-f471ce1f720a/fb9f73c9-f31f-4ce3-bb7d-f471ce1f720a_000.png"
+                  },
+                  {
+                    "Id": "fb9f73c9-f31f-4ce3-bb7d-f471ce1f720a",
+                    "Date": "27.09.2021 08:50",
+                    "Title": "Juniorwahl_Ergebnisse.docx",
+                    "Detail": "https://dsbmobile.de/data/5dfeda81-1fbd-44e4-9460-584cb596b6d5/fb9f73c9-f31f-4ce3-bb7d-f471ce1f720a/fb9f73c9-f31f-4ce3-bb7d-f471ce1f720a_001.png",
+                    "Tags": "",
+                    "ConType": 4,
+                    "Prio": 0,
+                    "Index": 1,
+                    "Childs": [],
+                    "Preview": "5dfeda81-1fbd-44e4-9460-584cb596b6d5/fb9f73c9-f31f-4ce3-bb7d-f471ce1f720a/fb9f73c9-f31f-4ce3-bb7d-f471ce1f720a_001.png"
+                  }
+                ],
+                "Preview": ""
+              }
+            ],
+            "Preview": ""
+          },
+          "Childs": [],
+          "MethodName": "tiles",
+          "NewCount": 0,
+          "SaveLastState": true
+        },
+        {
+          "Index": 0,
+          "IconLink": "https://dsbmobile.de/static/androidicons/Timetable.png",
+          "Title": "Pläne",
+          "Root": {
+            "Id": "",
+            "Date": "",
+            "Title": "",
+            "Detail": "",
+            "Tags": "",
+            "ConType": 0,
+            "Prio": 0,
+            "Index": 0,
+            "Childs": [
+              {
+                "Id": "7690d48f-d269-49fc-adbd-d9d596cfba19",
+                "Date": "27.09.2021 11:30",
+                "Title": "Spot 1",
+                "Detail": "",
+                "Tags": "",
+                "ConType": 2,
+                "Prio": 0,
+                "Index": 0,
+                "Childs": [
+                  {
+                    "Id": "7690d48f-d269-49fc-adbd-d9d596cfba19",
+                    "Date": "27.09.2021 11:30",
+                    "Title": "Schulsprecherwahl",
+                    "Detail": "https://dsbmobile.de/data/5dfeda81-1fbd-44e4-9460-584cb596b6d5/7690d48f-d269-49fc-adbd-d9d596cfba19/7690d48f-d269-49fc-adbd-d9d596cfba19_000.png",
+                    "Tags": "",
+                    "ConType": 4,
+                    "Prio": 0,
+                    "Index": 0,
+                    "Childs": [],
+                    "Preview": "5dfeda81-1fbd-44e4-9460-584cb596b6d5/7690d48f-d269-49fc-adbd-d9d596cfba19/7690d48f-d269-49fc-adbd-d9d596cfba19_000.png"
+                  },
+                  {
+                    "Id": "7690d48f-d269-49fc-adbd-d9d596cfba19",
+                    "Date": "27.09.2021 11:30",
+                    "Title": "Schulsprecherwahl",
+                    "Detail": "https://dsbmobile.de/data/5dfeda81-1fbd-44e4-9460-584cb596b6d5/7690d48f-d269-49fc-adbd-d9d596cfba19/7690d48f-d269-49fc-adbd-d9d596cfba19_000.png",
+                    "Tags": "",
+                    "ConType": 4,
+                    "Prio": 0,
+                    "Index": 0,
+                    "Childs": [],
+                    "Preview": "5dfeda81-1fbd-44e4-9460-584cb596b6d5/7690d48f-d269-49fc-adbd-d9d596cfba19/7690d48f-d269-49fc-adbd-d9d596cfba19_000.png"
+                  }
+                ],
+                "Preview": ""
+              },
+              {
+                "Id": "db1d37c2-e7d6-4875-aacf-fc90282b2fd6",
+                "Date": "17.08.2021 08:37",
+                "Title": "Spot 1",
+                "Detail": "",
+                "Tags": "",
+                "ConType": 2,
+                "Prio": 0,
+                "Index": 0,
+                "Childs": [
+                  {
+                    "Id": "db1d37c2-e7d6-4875-aacf-fc90282b2fd6",
+                    "Date": "17.08.2021 08:37",
+                    "Title": "Arbeitsgemeinschafte1.pdf",
+                    "Detail": "https://dsbmobile.de/data/5dfeda81-1fbd-44e4-9460-584cb596b6d5/db1d37c2-e7d6-4875-aacf-fc90282b2fd6/db1d37c2-e7d6-4875-aacf-fc90282b2fd6_000.jpg",
+                    "Tags": "",
+                    "ConType": 4,
+                    "Prio": 0,
+                    "Index": 0,
+                    "Childs": [],
+                    "Preview": "5dfeda81-1fbd-44e4-9460-584cb596b6d5/db1d37c2-e7d6-4875-aacf-fc90282b2fd6/db1d37c2-e7d6-4875-aacf-fc90282b2fd6_000.jpg"
+                  },
+                  {
+                    "Id": "db1d37c2-e7d6-4875-aacf-fc90282b2fd6",
+                    "Date": "17.08.2021 08:37",
+                    "Title": "Arbeitsgemeinschafte1.pdf",
+                    "Detail": "https://dsbmobile.de/data/5dfeda81-1fbd-44e4-9460-584cb596b6d5/db1d37c2-e7d6-4875-aacf-fc90282b2fd6/db1d37c2-e7d6-4875-aacf-fc90282b2fd6_000.jpg",
+                    "Tags": "",
+                    "ConType": 4,
+                    "Prio": 0,
+                    "Index": 0,
+                    "Childs": [],
+                    "Preview": "5dfeda81-1fbd-44e4-9460-584cb596b6d5/db1d37c2-e7d6-4875-aacf-fc90282b2fd6/db1d37c2-e7d6-4875-aacf-fc90282b2fd6_000.jpg"
+                  }
+                ],
+                "Preview": ""
+              },
+              {
+                "Id": "fb9f73c9-f31f-4ce3-bb7d-f471ce1f720a",
+                "Date": "27.09.2021 08:50",
+                "Title": "Spot 1",
+                "Detail": "",
+                "Tags": "",
+                "ConType": 2,
+                "Prio": 0,
+                "Index": 0,
+                "Childs": [
+                  {
+                    "Id": "fb9f73c9-f31f-4ce3-bb7d-f471ce1f720a",
+                    "Date": "27.09.2021 08:50",
+                    "Title": "Juniorwahl_Ergebnisse.docx",
+                    "Detail": "https://dsbmobile.de/data/5dfeda81-1fbd-44e4-9460-584cb596b6d5/fb9f73c9-f31f-4ce3-bb7d-f471ce1f720a/fb9f73c9-f31f-4ce3-bb7d-f471ce1f720a_000.png",
+                    "Tags": "",
+                    "ConType": 4,
+                    "Prio": 0,
+                    "Index": 0,
+                    "Childs": [],
+                    "Preview": "5dfeda81-1fbd-44e4-9460-584cb596b6d5/fb9f73c9-f31f-4ce3-bb7d-f471ce1f720a/fb9f73c9-f31f-4ce3-bb7d-f471ce1f720a_000.png"
+                  },
+                  {
+                    "Id": "fb9f73c9-f31f-4ce3-bb7d-f471ce1f720a",
+                    "Date": "27.09.2021 08:50",
+                    "Title": "Juniorwahl_Ergebnisse.docx",
+                    "Detail": "https://dsbmobile.de/data/5dfeda81-1fbd-44e4-9460-584cb596b6d5/fb9f73c9-f31f-4ce3-bb7d-f471ce1f720a/fb9f73c9-f31f-4ce3-bb7d-f471ce1f720a_001.png",
+                    "Tags": "",
+                    "ConType": 4,
+                    "Prio": 0,
+                    "Index": 1,
+                    "Childs": [],
+                    "Preview": "5dfeda81-1fbd-44e4-9460-584cb596b6d5/fb9f73c9-f31f-4ce3-bb7d-f471ce1f720a/fb9f73c9-f31f-4ce3-bb7d-f471ce1f720a_001.png"
+                  },
+                  {
+                    "Id": "fb9f73c9-f31f-4ce3-bb7d-f471ce1f720a",
+                    "Date": "27.09.2021 08:50",
+                    "Title": "Juniorwahl_Ergebnisse.docx",
+                    "Detail": "https://dsbmobile.de/data/5dfeda81-1fbd-44e4-9460-584cb596b6d5/fb9f73c9-f31f-4ce3-bb7d-f471ce1f720a/fb9f73c9-f31f-4ce3-bb7d-f471ce1f720a_000.png",
+                    "Tags": "",
+                    "ConType": 4,
+                    "Prio": 0,
+                    "Index": 2,
+                    "Childs": [],
+                    "Preview": "5dfeda81-1fbd-44e4-9460-584cb596b6d5/fb9f73c9-f31f-4ce3-bb7d-f471ce1f720a/fb9f73c9-f31f-4ce3-bb7d-f471ce1f720a_000.png"
+                  },
+                  {
+                    "Id": "fb9f73c9-f31f-4ce3-bb7d-f471ce1f720a",
+                    "Date": "27.09.2021 08:50",
+                    "Title": "Juniorwahl_Ergebnisse.docx",
+                    "Detail": "https://dsbmobile.de/data/5dfeda81-1fbd-44e4-9460-584cb596b6d5/fb9f73c9-f31f-4ce3-bb7d-f471ce1f720a/fb9f73c9-f31f-4ce3-bb7d-f471ce1f720a_001.png",
+                    "Tags": "",
+                    "ConType": 4,
+                    "Prio": 0,
+                    "Index": 1,
+                    "Childs": [],
+                    "Preview": "5dfeda81-1fbd-44e4-9460-584cb596b6d5/fb9f73c9-f31f-4ce3-bb7d-f471ce1f720a/fb9f73c9-f31f-4ce3-bb7d-f471ce1f720a_001.png"
+                  }
+                ],
+                "Preview": ""
+              },
+              {
+                "Id": "56e9983e-95f2-49c0-99e1-6458ec5419d0",
+                "Date": "27.09.2021 11:31",
+                "Title": "Vertretung Foyer",
+                "Detail": "",
+                "Tags": "",
+                "ConType": 2,
+                "Prio": 0,
+                "Index": 0,
+                "Childs": [
+                  {
+                    "Id": "56e9983e-95f2-49c0-99e1-6458ec5419d0",
+                    "Date": "27.09.2021 11:31",
+                    "Title": "subst_001.htm",
+                    "Detail": "https://dsbmobile.de/data/5dfeda81-1fbd-44e4-9460-584cb596b6d5/56e9983e-95f2-49c0-99e1-6458ec5419d0/56e9983e-95f2-49c0-99e1-6458ec5419d0.htm",
+                    "Tags": "",
+                    "ConType": 3,
+                    "Prio": 0,
+                    "Index": 0,
+                    "Childs": [],
+                    "Preview": "5dfeda81-1fbd-44e4-9460-584cb596b6d5/56e9983e-95f2-49c0-99e1-6458ec5419d0/preview.png"
+                  }
+                ],
+                "Preview": ""
+              },
+              {
+                "Id": "64e6516a-ed93-41f5-8a75-79b9857d618a",
+                "Date": "27.09.2021 11:31",
+                "Title": "Vplan Schüler morgen",
+                "Detail": "",
+                "Tags": "",
+                "ConType": 2,
+                "Prio": 0,
+                "Index": 0,
+                "Childs": [
+                  {
+                    "Id": "64e6516a-ed93-41f5-8a75-79b9857d618a",
+                    "Date": "27.09.2021 11:31",
+                    "Title": "subst_001.htm",
+                    "Detail": "https://dsbmobile.de/data/5dfeda81-1fbd-44e4-9460-584cb596b6d5/64e6516a-ed93-41f5-8a75-79b9857d618a/64e6516a-ed93-41f5-8a75-79b9857d618a.htm",
+                    "Tags": "",
+                    "ConType": 3,
+                    "Prio": 0,
+                    "Index": 0,
+                    "Childs": [],
+                    "Preview": "5dfeda81-1fbd-44e4-9460-584cb596b6d5/64e6516a-ed93-41f5-8a75-79b9857d618a/preview.png"
+                  }
+                ],
+                "Preview": ""
+              }
+            ],
+            "Preview": ""
+          },
+          "Childs": [],
+          "MethodName": "timetable",
+          "NewCount": 0,
+          "SaveLastState": true
+        }
+      ],
+      "MethodName": "",
+      "NewCount": 0,
+      "SaveLastState": true
+    },
+    {
+      "Index": 1,
+      "IconLink": "",
+      "Title": "Sonstiges",
+      "Childs": [
+        {
+          "Index": 0,
+          "IconLink": "https://dsbmobile.de/static/androidicons/Settings.png",
+          "Title": "Einstellungen",
+          "Childs": [],
+          "MethodName": "settings",
+          "NewCount": 0,
+          "SaveLastState": false
+        },
+        {
+          "Index": 1,
+          "IconLink": "https://dsbmobile.de/static/androidicons/Feedback.png",
+          "Title": "Feedback",
+          "Childs": [],
+          "MethodName": "feedback",
+          "NewCount": 0,
+          "SaveLastState": false
+        },
+        {
+          "Index": 2,
+          "IconLink": "https://dsbmobile.de/static/androidicons/About.png",
+          "Title": "Info",
+          "Childs": [],
+          "MethodName": "about",
+          "NewCount": 0,
+          "SaveLastState": false
+        },
+        {
+          "Index": 3,
+          "IconLink": "https://dsbmobile.de/static/androidicons/Logout.png",
+          "Title": "Logout",
+          "Childs": [],
+          "MethodName": "logout",
+          "NewCount": 0,
+          "SaveLastState": false
+        }
+      ],
+      "MethodName": "",
+      "NewCount": 0,
+      "SaveLastState": true
+    }
+  ],
+  "ChannelType": 0,
+  "MandantId": "d62c0678-8e23-4ba8-811b-9efb6dfa0393"
+}
